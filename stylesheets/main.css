@@ -1,0 +1,50 @@
+body{
+    font-family: 'Helvetica Neue', Helvetica, 'Nimbus Sans L', Arial, 'Liberation Sans', 'PingFang SC', 'Hiragino Sans GB', 'Source Han Sans CN', 'Source Han Sans SC', 'Microsoft YaHei', 'Wenquanyi Micro Hei', 'WenQuanYi Zen Hei', 'ST Heiti', SimHei, 'WenQuanYi Zen Hei Sharp';
+    font-weight: 400;
+    font-size : 14px;
+    line-height: 1.4;
+    /* color: #333; */
+    background-color: #f0f3f5;
+    padding: 0;
+    margin: 0;
+}
+a,
+a:hover,
+a:focus,
+input:focus{
+    text-decoration: none;
+    outline: none;
+    border: none;
+    
+}
+a:hover,
+h4>a:hover,.dropdown1 a{
+    background-color: #fa7e3e !important;
+}
+li{
+    list-style: none;
+}
+.fontColor,
+.header-list li a{
+    
+     color: #fff !important;
+ }
+ .bg{
+     background-color: #fa7e3e;
+ }
+ .bg-trans{
+     background-color: transparent !important;
+ }
+ .dropdown-menu{
+    position: absolute;
+}
+.dropdown>a ,.dropdown1>a{
+    outline: none;
+    border: none;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #222629;
+    font-weight: 700;
+    font-family: 'Microsoft YaHei'
+}
+

@@ -1,0 +1,38 @@
+
+.li1,.li2{
+    float:left;
+    height:32px;
+    width:208px;
+    text-indent:32px;
+    line-height:32px;
+    color: #666;
+    font-size:14px;
+}
+ ul.info{
+    margin-left:-65px;
+}
+.con-title{
+    color:#333;
+}
+.content-header-text>p{
+    display:block;
+    padding:6px 10px 2px;
+    font-size: 14px;
+    height:30px;
+    line-height:30px;
+font-weight: bold;
+    margin:0 auto;
+    text-align:center !important;
+}
+.content-padding .content-header-text{
+    display:inline-block;
+    margin:0 auto;
+}
+ul.info{
+    display:block;
+    height:60px;
+    line-height:60px;
+}
+ul.info li{
+    width:100%;
+}
